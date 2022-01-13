@@ -1,0 +1,25 @@
+Question 2
+GROUP MEMBERS:
+eissa sharaf
+audery
+moaz magdi
+anas eslam
+
+
+LIST OF STUDENTS AND GRADES:
+name 		 ID 		 percentage 		grade
+Abdulh 		 A19EE0180 	  85.00  		A
+LuDong 		 A19EE0160 	  70.00  		B
+Syarif 		 AC12CS678 	  55.00  		f
+Sivara 		 AC12CS123 	  65.00  		C
+Wendy 		 B19EE0167 	  75.00  		B
+Eissa 		 A19EE4031 	 100.00  		A
+Audrey 		 A19EE0454 	  25.00  		f
+Anas 		 A19EE0450 	  20.00  		f
+HeshtK 		 A18KE4049 	  85.00  		A
+mousa 		 A19EE5566 	  35.00  		f
+eslam 		 A19EE4015 	  40.00  		f
+joee 		 A19EE3015 	  60.00  		C
+ahmed 		 A15KE3011 	  60.00  		C
+moaz 		 A19EE3030 	  25.00  		f
+khaled 		 A19EE1010 	  25.00  		f
